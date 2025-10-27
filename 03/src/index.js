@@ -1,5 +1,5 @@
-import React from 'react';                  // 리액트 컴포넌트 모듈을 들고옴
-import ReactDOM from 'react-dom/client';    // 리액트 컴포넌트 모듈을 들고옴
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
