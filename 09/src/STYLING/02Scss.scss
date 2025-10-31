@@ -1,0 +1,9 @@
+
+$width:500px;       // width의 변수화
+
+.component-02{
+    h2{
+        background-color: orange;
+        width: $width;
+    }
+}

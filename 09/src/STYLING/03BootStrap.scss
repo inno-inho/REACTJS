@@ -1,0 +1,10 @@
+$primary: rgb(230, 30, 30) ;
+// $btn-success:darkgray;
+$text-primary:white;
+
+@import "~bootstrap/scss/bootstrap";
+
+.text-primary{
+    color: $text-primary;
+}
+
